@@ -1,0 +1,3 @@
+https://dialogflow.cloud.google.com/#/agent/fchatbot-wapl/intents
+
+https://web.telegram.org/#/im?p=@first_fchatbot
